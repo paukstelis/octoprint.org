@@ -4,138 +4,138 @@
     <title>OctoBlog</title>
     <link>https://octoprint.org/blog/</link>
     <atom:link href="https://octoprint.org/feeds/all.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Sep 2022 09:08:41 -0500</pubDate>
-    <lastBuildDate>Mon, 26 Sep 2022 09:08:41 -0500</lastBuildDate>
-    <generator>Jekyll v3.9.2</generator>
+    <pubDate>Thu, 20 Jul 2023 14:48:40 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Jul 2023 14:48:40 +0000</lastBuildDate>
+    <generator>Jekyll v3.9.3</generator>
     
       <item>
-        <title>New release: 1.8.3</title>
+        <title>New release: 1.9.2</title>
         <description>
           <![CDATA[
-            This third bugfix & security release for 1.8.0 fixes a few new issues reported, including various security vulnerabilities.
+            The second bugfix release for 1.9.x, mostly to work around a new bug in a third party dependency.
           ]]>
         </description>
-        <pubDate>Tue, 20 Sep 2022 06:30:00 -0500</pubDate>
-        <link>https://octoprint.org/blog/2022/09/20/new-release-1.8.3/?utm_source=rss&amp;utm_medium=all</link>
-        <guid isPermaLink="true">https://octoprint.org/blog/2022/09/20/new-release-1.8.3/</guid>
+        <pubDate>Tue, 18 Jul 2023 11:15:00 +0000</pubDate>
+        <link>https://octoprint.org/blog/2023/07/18/new-release-1.9.2/?utm_source=rss&amp;utm_medium=all</link>
+        <guid isPermaLink="true">https://octoprint.org/blog/2023/07/18/new-release-1.9.2/</guid>
         <category>OctoPrint Release Announcements</category>
       </item>
     
       <item>
-        <title>OctoPrint On Air #47</title>
+        <title>New release: 1.9.1</title>
         <description>
           <![CDATA[
-            The 47th episode of a regular live broadcast for Patrons which was recorded on August 18th 2022.
+            A first bugfix release for 1.9.x, fixing a few issues reported since the release of 1.9.0.
           ]]>
         </description>
-        <pubDate>Mon, 22 Aug 2022 08:45:00 -0500</pubDate>
-        <link>https://octoprint.org/blog/2022/08/22/octoprint-on-air-47/?utm_source=rss&amp;utm_medium=all</link>
-        <guid isPermaLink="true">https://octoprint.org/blog/2022/08/22/octoprint-on-air-47/</guid>
+        <pubDate>Tue, 27 Jun 2023 08:00:00 +0000</pubDate>
+        <link>https://octoprint.org/blog/2023/06/27/new-release-1.9.1/?utm_source=rss&amp;utm_medium=all</link>
+        <guid isPermaLink="true">https://octoprint.org/blog/2023/06/27/new-release-1.9.1/</guid>
+        <category>OctoPrint Release Announcements</category>
+      </item>
+    
+      <item>
+        <title>OctoPrint On Air #52</title>
+        <description>
+          <![CDATA[
+            The 52nd episode of a regular live broadcast for Patrons which was recorded on June 15th 2023.
+          ]]>
+        </description>
+        <pubDate>Mon, 19 Jun 2023 12:05:00 +0000</pubDate>
+        <link>https://octoprint.org/blog/2023/06/19/octoprint-on-air-52/?utm_source=rss&amp;utm_medium=all</link>
+        <guid isPermaLink="true">https://octoprint.org/blog/2023/06/19/octoprint-on-air-52/</guid>
         <category>OctoPrint On Air</category>
       </item>
     
       <item>
-        <title>New release: 1.8.2</title>
+        <title>A new camera stack for OctoPi</title>
         <description>
           <![CDATA[
-            This second bugfix & security release for 1.8.0 fixes a few new issues reported, including one security vulnerability.
+            For the past few months, I've not only worked on OctoPrint 1.9.0 and its RCs, but I've also been working on a new camera stack for OctoPi. Today I want to tell you a bit more about it.
           ]]>
         </description>
-        <pubDate>Tue, 09 Aug 2022 07:30:00 -0500</pubDate>
-        <link>https://octoprint.org/blog/2022/08/09/new-release-1.8.2/?utm_source=rss&amp;utm_medium=all</link>
-        <guid isPermaLink="true">https://octoprint.org/blog/2022/08/09/new-release-1.8.2/</guid>
-        <category>OctoPrint Release Announcements</category>
-      </item>
-    
-      <item>
-        <title>OctoPi Release Candidate 1.0.0rc2 needs testers!</title>
-        <description>
-          <![CDATA[
-            Guy Sheffer has published a second release candidate for the release of OctoPi 1.0.0 and is looking for feedback!
-          ]]>
-        </description>
-        <pubDate>Thu, 04 Aug 2022 07:30:00 -0500</pubDate>
-        <link>https://octoprint.org/blog/2022/08/04/octopi-release-candidate-1-0-0rc2/?utm_source=rss&amp;utm_medium=all</link>
-        <guid isPermaLink="true">https://octoprint.org/blog/2022/08/04/octopi-release-candidate-1-0-0rc2/</guid>
+        <pubDate>Wed, 24 May 2023 12:00:00 +0000</pubDate>
+        <link>https://octoprint.org/blog/2023/05/24/a-new-camera-stack-for-octopi/?utm_source=rss&amp;utm_medium=all</link>
+        <guid isPermaLink="true">https://octoprint.org/blog/2023/05/24/a-new-camera-stack-for-octopi/</guid>
         <category>OctoPi Announcements</category>
       </item>
     
       <item>
-        <title>OctoPrint On Air #46</title>
+        <title>New release: 1.9.0</title>
         <description>
           <![CDATA[
-            The 46th episode of a regular live broadcast for Patrons which was recorded on June 23rd 2022.
+            Almost a year in development, followed by close to 3 months of an RC phase, it's finally time to push out 1.9.0!
           ]]>
         </description>
-        <pubDate>Tue, 28 Jun 2022 03:25:00 -0500</pubDate>
-        <link>https://octoprint.org/blog/2022/06/28/octoprint-on-air-46/?utm_source=rss&amp;utm_medium=all</link>
-        <guid isPermaLink="true">https://octoprint.org/blog/2022/06/28/octoprint-on-air-46/</guid>
-        <category>OctoPrint On Air</category>
-      </item>
-    
-      <item>
-        <title>New release: 1.8.1</title>
-        <description>
-          <![CDATA[
-            This first bugfix & security release for 1.8.0 fixes a few new issues reported, including one security vulnerability.
-          ]]>
-        </description>
-        <pubDate>Tue, 24 May 2022 05:00:00 -0500</pubDate>
-        <link>https://octoprint.org/blog/2022/05/24/new-release-1.8.1/?utm_source=rss&amp;utm_medium=all</link>
-        <guid isPermaLink="true">https://octoprint.org/blog/2022/05/24/new-release-1.8.1/</guid>
+        <pubDate>Tue, 23 May 2023 08:00:00 +0000</pubDate>
+        <link>https://octoprint.org/blog/2023/05/23/new-release-1.9.0/?utm_source=rss&amp;utm_medium=all</link>
+        <guid isPermaLink="true">https://octoprint.org/blog/2023/05/23/new-release-1.9.0/</guid>
         <category>OctoPrint Release Announcements</category>
       </item>
     
       <item>
-        <title>OctoPrint On Air #45</title>
+        <title>New release candidate: 1.9.0rc6</title>
         <description>
           <![CDATA[
-            The 45th episode of a regular live broadcast for Patrons which was recorded on May 19th 2022.
+            The sixth release candidate for the upcoming 1.9.0 release, fixing a regression reported on the last one.
           ]]>
         </description>
-        <pubDate>Mon, 23 May 2022 06:50:00 -0500</pubDate>
-        <link>https://octoprint.org/blog/2022/05/23/octoprint-on-air-45/?utm_source=rss&amp;utm_medium=all</link>
-        <guid isPermaLink="true">https://octoprint.org/blog/2022/05/23/octoprint-on-air-45/</guid>
-        <category>OctoPrint On Air</category>
-      </item>
-    
-      <item>
-        <title>New release: 1.8.0</title>
-        <description>
-          <![CDATA[
-            After over 5 months of development and a two month long RC phase, I'm proud to present you OctoPrint 1.8.0!
-          ]]>
-        </description>
-        <pubDate>Tue, 17 May 2022 06:15:00 -0500</pubDate>
-        <link>https://octoprint.org/blog/2022/05/17/new-release-1.8.0/?utm_source=rss&amp;utm_medium=all</link>
-        <guid isPermaLink="true">https://octoprint.org/blog/2022/05/17/new-release-1.8.0/</guid>
+        <pubDate>Mon, 08 May 2023 13:30:00 +0000</pubDate>
+        <link>https://octoprint.org/blog/2023/05/08/new-release-candidate-1.9.0rc6/?utm_source=rss&amp;utm_medium=all</link>
+        <guid isPermaLink="true">https://octoprint.org/blog/2023/05/08/new-release-candidate-1.9.0rc6/</guid>
         <category>OctoPrint Release Announcements</category>
       </item>
     
       <item>
-        <title>New release candidate: 1.8.0rc5</title>
+        <title>New release candidate: 1.9.0rc5</title>
         <description>
           <![CDATA[
-            The fifth release candidate for the upcoming 1.8.0 release, fixing another observed regression with the first ones.
+            The fifth release candidate for the upcoming 1.9.0 release, fixing a regression reported on the last one.
           ]]>
         </description>
-        <pubDate>Tue, 12 Apr 2022 09:10:00 -0500</pubDate>
-        <link>https://octoprint.org/blog/2022/04/12/new-release-candidate-1.8.0rc5/?utm_source=rss&amp;utm_medium=all</link>
-        <guid isPermaLink="true">https://octoprint.org/blog/2022/04/12/new-release-candidate-1.8.0rc5/</guid>
+        <pubDate>Thu, 13 Apr 2023 15:00:00 +0000</pubDate>
+        <link>https://octoprint.org/blog/2023/04/13/new-release-candidate-1.9.0rc5/?utm_source=rss&amp;utm_medium=all</link>
+        <guid isPermaLink="true">https://octoprint.org/blog/2023/04/13/new-release-candidate-1.9.0rc5/</guid>
         <category>OctoPrint Release Announcements</category>
       </item>
     
       <item>
-        <title>OctoPrint On Air #44</title>
+        <title>New release candidate: 1.9.0rc4</title>
         <description>
           <![CDATA[
-            The 44th episode of a regular live broadcast for Patrons which was recorded on March 31st 2022.
+            The fourth release candidate for the upcoming 1.9.0 release, fixing some issues reported on the last ones and improving on some newly added functionality.
           ]]>
         </description>
-        <pubDate>Thu, 07 Apr 2022 06:45:00 -0500</pubDate>
-        <link>https://octoprint.org/blog/2022/04/07/octoprint-on-air-44/?utm_source=rss&amp;utm_medium=all</link>
-        <guid isPermaLink="true">https://octoprint.org/blog/2022/04/07/octoprint-on-air-44/</guid>
-        <category>OctoPrint On Air</category>
+        <pubDate>Wed, 12 Apr 2023 14:25:00 +0000</pubDate>
+        <link>https://octoprint.org/blog/2023/04/12/new-release-candidate-1.9.0rc4/?utm_source=rss&amp;utm_medium=all</link>
+        <guid isPermaLink="true">https://octoprint.org/blog/2023/04/12/new-release-candidate-1.9.0rc4/</guid>
+        <category>OctoPrint Release Announcements</category>
+      </item>
+    
+      <item>
+        <title>New release candidate: 1.9.0rc3</title>
+        <description>
+          <![CDATA[
+            The third release candidate for the upcoming 1.9.0 release, fixing some issues reported on the last ones and improving on some newly added functionality.
+          ]]>
+        </description>
+        <pubDate>Wed, 22 Mar 2023 13:00:00 +0000</pubDate>
+        <link>https://octoprint.org/blog/2023/03/22/new-release-candidate-1.9.0rc3/?utm_source=rss&amp;utm_medium=all</link>
+        <guid isPermaLink="true">https://octoprint.org/blog/2023/03/22/new-release-candidate-1.9.0rc3/</guid>
+        <category>OctoPrint Release Announcements</category>
+      </item>
+    
+      <item>
+        <title>New release candidate: 1.9.0rc2</title>
+        <description>
+          <![CDATA[
+            The second release candidate for the upcoming 1.9.0 release, fixing one issue immediately found in the first one!
+          ]]>
+        </description>
+        <pubDate>Tue, 07 Mar 2023 12:45:00 +0000</pubDate>
+        <link>https://octoprint.org/blog/2023/03/07/new-release-candidate-1.9.0rc2/?utm_source=rss&amp;utm_medium=all</link>
+        <guid isPermaLink="true">https://octoprint.org/blog/2023/03/07/new-release-candidate-1.9.0rc2/</guid>
+        <category>OctoPrint Release Announcements</category>
       </item>
     
   </channel>
